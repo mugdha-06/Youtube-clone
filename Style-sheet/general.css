@@ -1,0 +1,18 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding-left : 96px;
+  padding-right: 5px;
+  padding-top: 79px;
+  background-color: rgb(246,246,246);
+  transition: padding-left 0.8s ease;
+
+}
+a{
+  text-decoration: none;
+}
+  a:link, a:visited, a:hover, a:active {
+        color: #000000; /* Example: set to black */
+        text-decoration: none; /* Optional: removes the underline */
+  }
+
